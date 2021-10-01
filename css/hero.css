@@ -1,0 +1,22 @@
+.hero__wrapper {
+    background-image: url('../img/bg.jpeg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    filter: grayscale(100%);
+}
+.hero {
+    padding: 35rem 0;
+    position: relative;
+}
+.hero .btn{
+   margin-bottom: 0;
+}
+@media screen and (min-width: 1024px)  {
+   .hero {
+       text-align: right;
+   }
+   .hero .btn{
+    margin-right: 0;
+   }
+}

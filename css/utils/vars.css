@@ -1,0 +1,20 @@
+:root {
+    --main-bg-color: #fff;
+    --sub-bg-color: #000;
+    --sub-text-color: #fff;
+    --inactive: rgb(161, 161, 161);
+    --accent-color: red;
+    --checkbox-color: #6699ff;
+
+    --main-text-color: #000;
+
+    
+    --first-brand-color: #9c7561;
+    --second-brand-color: #313131;
+    --third-brand-color: #eeeae8;
+
+    --main-font: 'Montserrat';
+    --title-font: 'Montserrat Bold';
+    
+    font-size: 62.5%;
+}
